@@ -1,5 +1,5 @@
 namespace MinimalApi.Dominio.DTOs;
-
+//DTO Documento de transferencia entre os controllers
 public class LoginDTO 
 {
         
