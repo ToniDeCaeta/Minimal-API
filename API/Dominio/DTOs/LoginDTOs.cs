@@ -3,7 +3,7 @@ namespace MinimalApi.Dominio.DTOs;
 public class LoginDTO 
 {
         
-
+    
     public LoginDTO(string email, string senha)
     {
         Email = email;
